@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+> It sets git meta data in a hidden directory that enables you to commit and save changes
